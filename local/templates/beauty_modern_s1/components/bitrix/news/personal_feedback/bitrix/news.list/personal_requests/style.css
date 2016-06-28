@@ -1,0 +1,29 @@
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+
+
+b.processed, .text-green
+{
+color: #059d4f;
+}
+
+b.denied, .text-red
+{
+color: #de4834;
+}
+
+b.neitral
+{
+color: #f1ea00;
+}
+
+.arr.arr-right.nohref:after  {
+background-image: none;
+-webkit-background-size: auto 16px;
+background-size: auto 16px;

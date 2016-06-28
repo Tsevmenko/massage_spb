@@ -1,0 +1,293 @@
+
+.filter-block {
+	width: 530px;
+	margin-bottom: 20px;
+}
+.filter-block .jq-selectbox__dropdown {
+	width: 365px;
+}
+.filter-block.filter-collapsed form {
+	display: none;
+}
+.filter-header {
+	height: 35px;
+}
+.filter-header-left,
+.filter-header-right {
+	font-size: 16px;
+	line-height: 24px;
+	font-weight: bold;
+	color: #1d85b3;
+	cursor: pointer;
+	-webkit-transition: all ease-in .3s;
+	-o-transition: all ease-in .3s;
+	transition: all ease-in .3s;
+}
+.filter-header .filter-header-left {
+	float: left;
+	padding-left: 30px;
+}
+.filter-collapsed .filter-header-left:hover,
+.filter-header-left {
+	color: #4d4d4d;
+	background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAARCAYAAADQWvz5AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMRJREFUeNpi9PX1ZSAShAFxHRCrAvFtIG4C4lUwSRYiDQkB4m4gTgHi40BsCcRzoHJgw5iINKgBiJOBeDcQf4HS8VAXwl30n0jDTqDxjwGxNkw/yEWMROCrQGyBZpAVVByshlivNQLxXCB2AWJuKL0AiJtJDezVUNdPAmIVIL4DxOVAvJJUgxigmlbikmRioBKgmUGg1HsFiH9C6TBiDWIhJfUS6yKCqZeQi/4Tm3oJuYjo1IsPM5GSeokNbIKpFx8ACDAAYUIwPvgeIG0AAAAASUVORK5CYII=') no-repeat 0 4px;
+}
+.filter-collapsed .filter-header-left,
+.filter-header-left:hover {
+	color: #1d85b3;
+	background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAARCAYAAADQWvz5AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMRJREFUeNpilG3dzEAkCAPiOiBWBeLbQNwExKtgkixEGhICxN1AnALEx4HYEojnQOXAhjERaVADECcD8W4g/gKl46EuhLvoP5GGnUDjHwNibZh+kIsYicBXgdgCzSArqDhYDbFeawTiuUDsAsTcUHoBEDeTGtiroa6fBMQqQHwHiMuBeCWpBjFANa3EJcnEQCVAM4NAqfcKEP+E0mHEGsRCSuol1kUEUy8hF/0nNvUSchHRqRcfZiIl9RIb2ARTLz4AEGAAdSwwrFTEIBYAAAAASUVORK5CYII=') no-repeat 0 4px;
+}
+.filter-header-right {
+	float: right;
+	display: block;
+}
+.filter-header-right:hover {
+	color: #4d4d4d;
+}
+.filter-collapsed .filter-header-right {
+	display: none;
+}
+
+.talon_main{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #BFBFBF;
+	margin: 0 15px 20px 5px;
+	padding: 15px 23px;
+	min-width:300px;
+}
+.simple.talon td {
+	vertical-align: top;
+}
+.talon-price {
+	font-size: 16px;
+}
+.talon-bottom {
+	margin-top: 20px;
+	width: 100%;
+}
+.talon-bottom td {
+	vertical-align: middle !important;
+}
+
+.talon_number{
+	font-size: 14pt;
+	width: 100%;
+}
+.talon_status {
+	font-size: 14px;
+	display: block;
+	text-align: right;
+}
+.talon_buttons {
+	text-align: right;
+}
+.talon_row{
+	vertical-align: top;
+}
+
+.param_value{
+	padding-left: 5px;
+}
+
+.talon_state_red{
+	color: red;
+}
+
+.talon_state_green{
+	color: green;
+}
+
+.talon_param{
+	margin-bottom: 10px;
+	font-size: 14px;
+}
+
+.print_btn4{
+	background: url("images/print_btn4.gif") no-repeat scroll left -50px transparent;
+	_background: url("images/print_btn4.gif") no-repeat scroll left -50px transparent;
+	float: left;
+	height: 47px;
+	padding-left: 30px;
+	margin: 13px 10px 10px 0;
+	_margin-right: 0px;
+	position: relative;
+}
+
+.print_btn4 input, .print_btn4 a{
+	background: url("images/print_btn4.png") no-repeat scroll right -254px transparent;
+	_background: url("images/print_btn4.gif") no-repeat scroll right -254px transparent;
+	border: medium none;
+	color: #fff;
+	cursor: pointer;
+	float: left;
+	font: bold 18px/47px Arial, Helvetica, sans-serif;
+	height: 47px;
+	margin-right: -11px;
+	padding: 0 20px;
+	overflow: visible;
+	position: relative;
+	text-decoration: none;
+	text-shadow: 0 1px 1px rgba(194, 123, 0, 0.8);
+	width: auto;
+}
+
+.print_btn4 a:hover{
+	color: #fff;
+	text-decoration: none;
+}
+
+.disabled .print_btn4{
+	background: url("images/print_btn4.gif") no-repeat scroll left top transparent;
+	_background: url("images/print_btn4.gif") no-repeat scroll left top transparent;
+	cursor: default;
+}
+
+.disabled .print_btn4 input, .disabled .print_btn4 a{
+	background: url("images/print_btn4.png") no-repeat scroll right -204px transparent;
+	_background: url("images/print_btn4.gif") no-repeat scroll right -204px transparent;
+	cursor: default;
+}
+
+.error_show{
+	position: fixed;
+	overflow: auto;
+	width: 500px;
+	height: 65px;
+	left: 50%;
+	top: 50%;
+	margin-left: -150px;
+	margin-top: -100px;
+	background: #FFFFFF;
+	border-width: 1px;
+	border-style: solid;
+	border-color: black;
+	padding: 10px;
+}
+
+.error_hide{
+	display: none;
+	position: fixed;
+	overflow: auto;
+	width: 300px;
+	height: 90px;
+	left: 50%;
+	top: 50%;
+	margin-left: -150px;
+	margin-top: -100px;
+	background: #FFFFFF;
+	border-width: 1px;
+	border-style: solid;
+	border-color: black;
+	padding: 10px;
+}
+
+div.clear{
+	clear: both;
+}
+
+.search_form{
+	border-color: black;
+}
+
+.search_form tr td{
+	padding: 5px;
+	border-color: #EFEFEF -moz-use-text-color;
+	border-image: none;
+	border-style: solid none;
+	border-width: 1px medium;
+}
+.search_form tr td.buttons {
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+.search_form input {
+	margin-bottom: 0;
+}
+#cancel{
+	display: block;
+	cursor: pointer;
+	width: 70px;
+	height: 18px;
+	color: #FFF;
+	font-size: 12px;
+	font-family: Arial, Tahoma, Verdana, sans-serif;
+	text-decoration: none;
+	background: url('images/button_popup.gif') no-repeat !important;
+	border: none;
+	float: right;
+	margin-bottom: 10px;
+	padding-top: 0px !important;
+}
+
+#cancel:hover{
+	color: #fff;
+	background-position: 0 -18px !important;
+	float: right;
+}
+
+#ok{
+	display: block;
+	cursor: pointer;
+	width: 96px;
+	height: 18px;
+	color: #333;
+	font-size: 12px;
+	text-align: center;
+	font-family: Arial, Tahoma, Verdana, sans-serif;
+	background: url('images/button_popup.gif') 100% 0 no-repeat !important;
+	border: none;
+	float: right;
+	padding-top: 0px !important;
+}
+
+#ok:hover{
+	color: #333;
+	background-position: 100% -18px !important;
+	float: right;
+}
+
+
+.selectricWrapper {
+	width: 350px !important;
+}
+img.calendar-icon, img.bx-clock-icon {
+	vertical-align: middle !important;
+}
+
+#t_start, #t_end {
+	width: 140px;
+}
+
+.w100p,
+form.form-table.w100p {
+	width: 100% !important;
+}
+
+.btn + .btn {
+	margin-left: 5px;
+}
+
+.talon_status_comment {
+	margin: -10px 0 20px 0;
+	position: relative;
+	padding: 7px 10px;
+	font-size: 14px;
+	color: #4d4d4d;
+	border: solid 1px #d8d8d8;
+}
+.talon_status_comment:after {
+	position: absolute;
+	content: ' ';
+	top: -9px;
+	right: 30px;
+	width: 9px;
+	height: 9px;
+	background: url('data:image/gif;base64,R0lGODlhCQAJAMQAAPf39+zs7Pr6+v39/ebm5vb29ujo6Nvb2/Hx8d7e3vPz8+/v7+Tk5ODg4OPj4+rq6vT09P7+/vn5+fv7+9zc3NjY2P///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAJAAkAAAUmoCWO4kOKEVGdg8Os49QYFmwJSSDCALWMK8hBQaogKIVThSI51UIAOw==') no-repeat 0 0;
+}
+.talon-bottom  .btn.btn-blue:hover{
+	color:#ffffff;
+}
+.talon-bottom  .btn.btn-gray:hover{
+	color:#52565a;
+}

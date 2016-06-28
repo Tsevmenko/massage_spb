@@ -1,0 +1,11 @@
+div.news-list img.preview_picture{
+	float: left;
+	margin: 0 4px 6px 0;
+}
+
+.news-date-time{
+	color: #486DAA;
+}
+.bx-user-info-inner .bx-user-control .bx-icon.bx-icon-edit {
+	padding-left: 25px;
+}

@@ -1,0 +1,66 @@
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+
+#content .content  table.org_list td.end {
+padding: 3px 5px;
+background: none;
+}
+
+#content .content table.org_list td a {
+text-decoration: none;
+}
+
+#content .content table.org_list td div.title {
+color: #0071BC;
+font-weight:bold;
+line-height:15px;
+margin-bottom: 10px;
+}
+#content .content table.org_list td div.title img {
+vertical-align:top;}
+
+#content .content table.org_list td a:hover {
+color: #999;
+}
+
+
+table.org_list{
+	width:100%;
+}
+table.org_list td.delimiter {
+	width:4%;
+	background:none;
+}
+table.org_list .title {
+	border:none;
+	margin-bottom:10px;
+}
+table.org_list .btn-blue {
+	color: #FFFFFF;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+table.org_list td {
+	padding:15px 15px 50px 15px;
+	vertical-align:top;
+	position: relative;
+	width:46%
+}
+table.org_list td .rec-btn {
+	position: absolute;
+	bottom: 10px;
+	left: 35%;
+}
+table.org_list td div.property {
+	margin: -5px 0 0 9px;
+}
+
+table.org_list td.rowDelimiter {
+	padding: 0;
+}

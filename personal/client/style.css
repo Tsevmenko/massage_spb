@@ -1,0 +1,155 @@
+/* Start:/bitrix/templates/.default/ajax/ajax.min.css?1454344766420*/
+iframe.waitwindowlocal{position:absolute;border:0;z-index:9999}div.waitwindowlocal{position:absolute;width:25px;height:25px;padding:0;z-index:10000;background-color:#fcf7d1;border:1px solid #e1b52d;background-image:url(/bitrix/templates/.default/ajax/images/wait.gif);background-position:center center;background-repeat:no-repeat}div.waitwindowlocalshadow{position:absolute;z-index:9998;background-image:url(/bitrix/templates/.default/ajax/images/shadow.gif);border:1px solid #808080}
+/* End */
+
+
+/* Start:/bitrix/templates/beauty_modern_s1/components/medsite/talon/.default/style.css?14544004602361*/
+
+.filter-block {
+	margin-bottom: 20px;
+}
+
+.filter-block.filter-collapsed form {
+	display: none;
+}
+
+
+.filter-header-right {
+	display: block;
+	float: right;
+}
+
+.filter-collapsed .filter-header-right {
+	display: none;
+}
+.talon_main {
+	border-color: #bfbfbf;
+	border-style: solid;
+	border-width: 1px;
+	margin: 0 15px 20px 5px;
+	min-width: 300px;
+	padding: 15px 23px;
+}
+.talon_main.print {
+	width: 290px;
+}
+
+.simple.talon td {
+	vertical-align: top;
+	padding: 0;
+}
+.talon-price {
+	font-size: 18px;
+}
+.talon-bottom {
+	margin-top: 20px;
+	width: 100%;
+}
+.talon-bottom td {
+	vertical-align: middle !important;
+}
+
+.talon_number {
+	font-size: 14pt;
+	width: 100%;
+	margin-bottom: 1em;
+}
+.talon_status {
+	font-size: 14px;
+	display: block;
+	text-align: right;
+}
+.talon_buttons {
+	text-align: right;
+}
+.talon_row {
+	vertical-align: top;
+}
+
+.param_value {
+	padding-left: 5px;
+}
+
+.talon_state_red {
+	color: red;
+}
+
+.talon_state_green {
+	color: green;
+}
+
+.talon_param {
+	margin-bottom: 10px;
+	font-size: 14px;
+}
+
+.error_show {
+	position: fixed;
+	overflow: auto;
+	width: 500px;
+	height: 65px;
+	left: 50%;
+	top: 50%;
+	margin-left: -150px;
+	margin-top: -100px;
+	background: #fff;
+	border-width: 1px;
+	border-style: solid;
+	border-color: black;
+	padding: 10px;
+}
+
+.error_hide {
+	display: none;
+	position: fixed;
+	overflow: auto;
+	width: 300px;
+	height: 90px;
+	left: 50%;
+	top: 50%;
+	margin-left: -150px;
+	margin-top: -100px;
+	background: #fff;
+	border-width: 1px;
+	border-style: solid;
+	border-color: black;
+	padding: 10px;
+}
+
+div.clear {
+	clear: both;
+}
+
+img.calendar-icon {
+	vertical-align: middle !important;
+}
+
+.w100p {
+	width: 100%;
+}
+
+.btn + .btn {
+	margin-left: 5px;
+}
+
+.talon_status_comment {
+	margin: -10px 0 20px 0;
+	position: relative;
+	padding: 7px 10px;
+	font-size: 14px;
+	color: #4d4d4d;
+	border: solid 1px #d8d8d8;
+}
+.talon_status_comment:after {
+	position: absolute;
+	content: " ";
+	top: -9px;
+	right: 30px;
+	width: 9px;
+	height: 9px;
+	background: url("data:image/gif;base64,R0lGODlhCQAJAMQAAPf39+zs7Pr6+v39/ebm5vb29ujo6Nvb2/Hx8d7e3vPz8+/v7+Tk5ODg4OPj4+rq6vT09P7+/vn5+fv7+9zc3NjY2P///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAJAAkAAAUmoCWO4kOKEVGdg8Os49QYFmwJSSDCALWMK8hBQaogKIVThSI51UIAOw==") no-repeat 0 0;
+}
+
+/* End */
+/* /bitrix/templates/.default/ajax/ajax.min.css?1454344766420 */
+/* /bitrix/templates/beauty_modern_s1/components/medsite/talon/.default/style.css?14544004602361 */

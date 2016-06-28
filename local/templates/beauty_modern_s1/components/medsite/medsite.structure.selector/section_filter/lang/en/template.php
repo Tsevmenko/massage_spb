@@ -1,0 +1,5 @@
+<?php
+$MESS['INTR_ABSC_TPL_CHECK_ENTRY'] = "Check";
+$MESS['INTR_ABSC_TPL_CHECK_ALL'] = "All";
+$MESS['INTR_ABSC_TPL_THERAPIST'] = "Therapist";
+?>

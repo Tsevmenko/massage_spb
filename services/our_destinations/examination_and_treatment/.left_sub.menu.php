@@ -1,0 +1,39 @@
+<?
+$aMenuLinks = Array(
+    Array(
+        "Гинекология и акушерство",
+        "/services/our_destinations/examination_and_treatment/new_page.php",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Урология",
+        "/services/our_destinations/examination_and_treatment/urolithiasis.php",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Гастроэнтерология",
+        "/services/our_destinations/examination_and_treatment/gastroenterologist.php",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Кардиология",
+        "/services/our_destinations/examination_and_treatment/cardiology.php",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Ортопед",
+        "/services/our_destinations/examination_and_treatment/orthopedist.php",
+        Array(),
+        Array(),
+        ""
+    )
+);
+?>

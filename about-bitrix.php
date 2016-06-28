@@ -1,0 +1,1 @@
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");$APPLICATION->SetTitle("1С-Битрикс: Медицинское учреждение");?><? require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php"); ?>

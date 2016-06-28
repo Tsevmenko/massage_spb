@@ -1,0 +1,9 @@
+<?
+$PERM["for_staff"]["2"]="D";
+$PERM["for_staff"]["5"]="D";
+$PERM["for_staff"]["6"]="R";
+$PERM["for_staff"]["7"]="R";
+$PERM["for_staff"]["*"]="D";
+$PERM["about"]["*"]="X";
+$PERM["/"]["*"]="R";
+?>

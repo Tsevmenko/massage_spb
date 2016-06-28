@@ -1,0 +1,16 @@
+.timeTop {
+	position: absolute;
+	top: 5px;
+	text-align: center;
+	width: 100%;
+}
+
+.timeBottom {
+	position: absolute;
+	bottom: 5px;
+	text-align: center;
+	width: 100%;
+}
+.btn-schedule {
+	padding: 0;
+}

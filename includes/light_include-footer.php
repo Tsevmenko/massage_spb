@@ -1,0 +1,1 @@
+<font size="2" style="color: #545454;">    #COMPANY_NAME# <br/>    Cправочная служба круглосуточно:<strong id="phone_number">#S_PHONE#</strong><br/>    #S_ADRESS#</font>

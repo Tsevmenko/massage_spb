@@ -1,0 +1,141 @@
+.talon_main{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #BFBFBF;
+	width: 290px;
+	margin: 0 15px 10px 5px;
+	padding: 15px 25px;
+}
+
+.talon_number{
+	font-size: 14pt;
+	width: 100%;
+}
+
+.talon_row{
+	vertical-align: top;
+}
+
+.param_value{
+	padding-left: 5px;
+}
+
+.talon_state_red{
+	color: red;
+}
+
+.talon_state_green{
+	color: green;
+}
+
+.talon_param{
+	margin-bottom: 10px;
+	font-size: 14px;
+}
+
+.print_btn4{
+	background: url("images/print_btn4.gif") no-repeat scroll left -50px transparent;
+	_background: url("images/print_btn4.gif") no-repeat scroll left -50px transparent;
+	float: left;
+	height: 47px;
+	padding-left: 30px;
+	margin: 13px 10px 10px 0;
+	_margin-right: 0px;
+	position: relative;
+}
+
+.print_btn4 a:link{
+	color: #fff;
+}
+
+.print_btn4 input, .print_btn4 a{
+	background: url("images/print_btn4.png") no-repeat scroll right -254px transparent;
+	_background: url("images/print_btn4.gif") no-repeat scroll right -254px transparent;
+	border: medium none;
+	color: #fff;
+	cursor: pointer;
+	float: left;
+	font: bold 18px/47px Arial, Helvetica, sans-serif;
+	height: 47px;
+	margin-right: -11px;
+	padding: 0 20px;
+	overflow: visible;
+	position: relative;
+	text-decoration: none;
+	text-shadow: 0 1px 1px rgba(194, 123, 0, 0.8);
+	width: auto;
+}
+
+.print_btn4 a:active{
+	color: #fff;
+	text-decoration: none;
+}
+
+.disabled .print_btn4{
+	background: url("images/print_btn4.gif") no-repeat scroll left top transparent;
+	_background: url("images/print_btn4.gif") no-repeat scroll left top transparent;
+	cursor: default;
+}
+
+.disabled .print_btn4 input, .disabled .print_btn4 a{
+	background: url("images/print_btn4.png") no-repeat scroll right -204px transparent;
+	_background: url("images/print_btn4.gif") no-repeat scroll right -204px transparent;
+	cursor: default;
+}
+
+.error_show{
+	position: fixed;
+	overflow: auto;
+	width: 500px;
+	height: 65px;
+	left: 50%;
+	top: 50%;
+	margin-left: -150px;
+	margin-top: -100px;
+	background: #FFFFFF;
+	border-width: 1px;
+	border-style: solid;
+	border-color: black;
+	padding: 10px;
+}
+
+.error_hide{
+	display: none;
+	position: fixed;
+	overflow: auto;
+	width: 300px;
+	height: 90px;
+	left: 50%;
+	top: 50%;
+	margin-left: -150px;
+	margin-top: -100px;
+	background: #FFFFFF;
+	border-width: 1px;
+	border-style: solid;
+	border-color: black;
+	padding: 10px;
+}
+
+div.clear{
+	clear: both;
+}
+
+.search_form{
+	border-color: black;
+}
+
+.search_form tr td{
+	padding: 5px;
+	border-color: #EFEFEF -moz-use-text-color;
+	border-image: none;
+	border-style: solid none;
+	border-width: 1px medium;
+}
+
+.search_form thead tr td{
+	background-color: #EBEBEB !important;
+}
+
+.search_form tfoot tr td{
+	background-color: #F6F6F5 !important;
+}

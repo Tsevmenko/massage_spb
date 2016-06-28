@@ -1,0 +1,32 @@
+.show-pass {
+	display: inline-block;
+	position: relative;
+	padding-left: 35px;
+	vertical-align: middle;
+	margin-bottom: 10px;
+	height: 36px;
+}
+.show-pass:hover {
+	color: #000;
+	border-bottom-style: dashed;
+}
+.show-pass:after {
+	position: absolute;
+	content: "";
+	top: 50%;
+	left: 0;
+	margin-top: -14px;
+	width: 29px;
+	height: 26px;
+	background: url(images/bg_showpass.png) no-repeat 0 0;
+
+}
+.show-pass:hover:after {
+	background-position: 0 -30px;
+}
+.show-pass.expanded:after {
+	background-position: 0 -60px;
+}
+.show-pass.expanded:hover:after {
+	background-position: 0 -90px;
+}

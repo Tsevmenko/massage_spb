@@ -1,0 +1,116 @@
+.personalItem{
+	border-bottom: 1px solid #dadcd4;
+	margin: 20px 0;
+	overflow: hidden;
+	padding: 0 0 20px 0;
+	*zoom: 1;
+}
+
+.personalItem.last{
+	border: none;
+}
+
+.personal-right{
+	float: right;
+	width: 180px;
+}
+
+.shedule .personal-right{
+	border-left: 1px solid #e3e3e3;
+	float: right;
+	padding: 0 0 0 25px;
+	width: 335px;
+}
+
+.personal-right h2{
+	margin: 0 0 15px 0;
+}
+
+.personal-right p{
+	color: #666;
+	font-size: 12px;
+}
+
+.content .personal-left ul{
+	margin: 0;
+}
+
+.content .personal-left li{
+	background: none;
+	margin: 0 0 10px 0;
+	padding: 0;
+}
+
+.personal-left a{
+	display: inline-block;
+	*display: inline;
+	font-size: 16px;
+	line-height: 25px;
+	padding: 0 0 0 35px;
+	*zoom: 1;
+}
+
+.personal-link1 a{
+	background: url(images/ico9.gif) no-repeat left center;
+}
+
+.personal-link2 a{
+	background: url(images/ico10.gif) no-repeat left center;
+}
+
+.personal-left{
+	float: left;
+	width: 150px;
+}
+
+.content .personal-left img{
+	margin: 0;
+}
+
+.hover .personal-left a img{
+	filter: alpha(opacity=30);
+	-moz-opacity: 0.3;
+	-khtml-opacity: 0.3;
+	opacity: 0.3;
+}
+
+.personal-txt{
+	margin: 0 0px 0 180px;
+}
+
+.shedule .personal-txt{
+	margin: 0 380px 0 155px;
+}
+
+.personal-txt h2{
+	margin: 0 0 5px 0;
+}
+
+.personal-txt h2 a, .personal-txt h2 span{
+	color: #659026;
+}
+
+.personal-txt h2 a:hover, .hover .personal-txt h2 a{
+	color: #C52121;
+}
+
+.personal-txt h4{
+	margin: 5px 0 15px 0;
+}
+
+.personal-txt dl{
+	color: #4d4d4d;
+	overflow: hidden;
+	*zoom: 1;
+}
+
+.personal-txt dt{
+	float: left;
+	clear: left;
+	margin: 0 0 5px 0;
+	width: 120px;
+}
+
+.personal-txt dd{
+	margin: 0 0 5px 0;
+}

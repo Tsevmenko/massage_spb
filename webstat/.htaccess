@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/massage.itestings.ru/webstat"
+AuthUserFile /var/www/itestings/data/etc/1451123.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>

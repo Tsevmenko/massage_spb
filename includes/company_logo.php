@@ -1,0 +1,1 @@
+<img src="/bitrix/templates/beauty_modern_s1/images/logo.png" alt="Массаж на дом">

@@ -1,0 +1,353 @@
+AWSTATS DATA FILE 7.1 (build 1.983)
+# If you remove this file, all statistics for date 201605 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.massage.itestings.ru.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2000                
+POS_TIME 2665                
+POS_VISITOR 7318                
+POS_DAY 7948                
+POS_DOMAIN 3373                
+POS_LOGIN 3607                
+POS_ROBOT 3762                
+POS_WORMS 3925                
+POS_EMAILSENDER 4056                
+POS_EMAILRECEIVER 4199                
+POS_SESSION 8116                
+POS_SIDER 8309                
+POS_FILETYPES 4334                
+POS_DOWNLOADS 4600                
+POS_OS 5070                
+POS_BROWSER 5213                
+POS_SCREENSIZE 5397                
+POS_UNKNOWNREFERER 5471                
+POS_UNKNOWNREFERERBROWSER 5558                
+POS_ORIGIN 5640                
+POS_SEREFERRALS 5779                
+POS_PAGEREFS 5923                
+POS_SEARCHWORDS 6100                
+POS_KEYWORDS 6252                
+POS_MISC 2328                
+POS_ERRORS 6311                
+POS_CLUSTER 3463                
+POS_SIDER_404 6425                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160520041437 442 158784 103821989759
+FirstTime 0
+LastTime 20160520041437
+LastUpdate 20160520143911 0 0 0 0 0
+TotalVisits 27                  
+TotalUnique 12                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 12                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 90 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 127 169 1504899 0 1 16371
+1 117 117 2728 0 0 0
+2 114 114 2765 0 0 0
+3 124 278 6655613 2 2 676
+4 618 1218 10635234 24 24 341562
+5 1059 3299 27452905 9 15 122214
+6 531 1981 5528739 5 16 213671
+7 657 2098 6333295 56 76 2008028
+8 287 1025 3021308 7 28 266410
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 9 53 2548033 0 1 16371
+13 1 1 4993 0 0 0
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 6 153 4642190 1 1 0
+17 3 6 254286 1 3 16371
+18 49 205 5397103 3 28 0
+19 76 191 5038236 0 2 32742
+20 407 607 8008534 1 3 107362
+21 181 402 5099851 1 3 106897
+22 142 174 864169 1 1 0
+23 121 121 3150 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 4629 12212 90866904
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+yandex 1 6911 20160518050159 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+css 1364 2997125 0 0
+png 724 3491941 0 0
+woff 1 71508 0 0
+php 4226 18428530 0 0
+html 402 5502472 0 0
+js 2216 24913821 0 0
+jpg 1817 17025754 0 0
+ogg 454 2131127 0 0
+svg 15 6381 0 0
+gif 993 16298245 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 9
+/bitrix/js/im/audio/new-message-2.ogg 0 8 123760
+/bitrix/js/im/audio/video-ringtone.ogg 0 9 471555
+/bitrix/js/im/audio/new-message-1.ogg 0 8 140064
+/bitrix/js/im/audio/video-stop.ogg 0 9 346014
+/bitrix/js/im/audio/video-dialtone.ogg 0 9 293733
+/bitrix/js/im/audio/reminder.ogg 0 8 168936
+/bitrix/js/im/audio/video-start.ogg 0 9 232209
+/bitrix/js/im/audio/video-error.ogg 0 9 241200
+/bitrix/js/im/audio/send.ogg 0 8 113656
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+macosx 5857 3024
+linuxandroid 274 82
+winnt 6065 1509
+winvista 61 10
+win7 32 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 6
+chrome50.0.2661.89 232 64
+safari9.0 175 12
+chrome48.0.2564.95 42 18
+opera9.80 61 10
+chrome50.0.2661.102 11499 4501
+firefox45.0 280 24
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 31 49
+From1 0 0
+From2 0 0
+From3 1 1
+From4 4597 12239
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://m.vk.com/away.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 30 611267
+504 2 676
+404 79 1904897
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 7
+/robots.txt 1 -
+/bitrix/tools/public_session.php 1 http://massage.itestings.ru/bitrix/admin/wizard_list.php
+/schedule/item=e544&type=objects 16 http://massage.itestings.ru/schedule/record_wizard.php
+/schedule/cat=s2&type=objects 14 http://massage.itestings.ru/schedule/record_wizard.php
+/bitrix/components/medsite/videocall/ajax.php 6 http://massage.itestings.ru/schedule/record_wizard.php
+/bitrix/components/bitrix/pull.request/ajax.php 15 http://massage.itestings.ru/schedule/record_wizard.php
+/schedule/cat=s1&type=objects 26 http://massage.itestings.ru/schedule/record_wizard.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 12
+185.43.94.131 3019 5722 48130827 20160520041437 20160520000025 /bitrix/tools/public_session.php
+178.70.21.119 763 3914 20533893 20160516072406
+178.70.19.148 743 2121 5872361 20160517000915
+217.66.158.76 33 168 4785533 20160516180759
+66.102.9.13 20 44 692658 20160517183557
+66.102.9.24 18 38 489597 20160517183554
+95.24.75.212 10 61 2522033 20160516213105
+66.102.9.35 8 21 277642 20160517183536
+217.66.158.23 5 135 4578972 20160516165703
+85.143.156.11 4 32 1655149 20160519135302
+66.102.9.123 3 3 7904 20160516082836
+5.18.179.132 3 30 1320335 20160517004131
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 4
+20160516 3250 10273 70259605 15
+20160517 253 514 9826463 6
+20160519 664 963 12900805 5
+20160520 462 462 11158 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 8
+5mn-15mn 2
+30s-2mn 8
+2mn-5mn 1
+0s-30s 6
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 71
+/bitrix/components/bitrix/pull.request/ajax.php 1515 68557 1 1
+/bitrix/components/medsite/videocall/ajax.php 974 56202 0 2
+/bitrix/tools/public_session.php 557 1565 0 3
+/bitrix/components/bitrix/im.messenger/im.ajax.php 385 137538 0 1
+/ 230 1924076 13 2
+/schedule/record_wizard.php 165 5403335 1 4
+/bitrix/admin/wizard_install.php 89 185212 0 0
+/index.php 80 101215 0 0
+/bitrix/admin/iblock_list_admin.php 73 3078605 0 0
+/m/ 53 143993 6 6
+/employees/ 43 2026617 1 0
+/for_staff/ereg_tuning/schedules.php 41 1824828 0 0
+/m/schedule/ 24 75207 3 3
+/personal/stamps.php 1 34386 0 0
+/bitrix/components/medsite/medsite.edit_calendar/actions/add_action.php 15 965658 1 0
+/bitrix/admin/partner_modules.php 13 542979 0 0
+/personal/insurance-companies/ 1 8407 0 0
+/bitrix/admin/user_edit.php 36 509512 0 0
+/m/employees/personal_info.php 2 4833 0 0
+/bitrix/admin/wizard_list.php 4 174078 0 0
+/personal/profile/ 5 113334 0 0
+/bitrix/tools/upload.php 3 2823 0 0
+/bitrix/tools/conversion/ajax_counter.php 7 154 0 0
+/services/list/159/ 1 5645 0 0
+/bitrix/tools/autosave.php 35 1040 0 0
+/bitrix/admin/sale_stat_graph.php 8 18080 0 0
+/bitrix/fonts/fontawesome-webfont.woff 1 71508 0 0
+/services/list/ 6 299744 0 0
+/bitrix/admin/update_system_partner.php 7 337266 0 0
+/bitrix/admin/index.php 4 204854 0 0
+/bitrix/admin/sale_graph_legend.php 8 620 0 0
+/personal/ 5 92869 1 1
+/m/about/ 1 2438 0 0
+/bitrix/admin/favorite_act.php 2 1498 0 0
+/bitrix/admin/iblock_admin.php 1 47390 0 0
+/bitrix/tools/captcha.php 3 11902 0 1
+/bitrix/tools/oauth/socserv.ajax.php 3 96 0 0
+/bitrix/admin/public_menu_edit.php 8 40286 0 0
+/bitrix/admin/get_menu.php 12 8765 0 0
+/bitrix/admin/public_file_edit_src.php 1 6575 0 0
+/for_staff/stamps.php 1 37472 0 0
+/bitrix/httest/test_404.php 1 7 0 0
+/bitrix/admin/site_admin.php 1 45545 0 0
+/bitrix/admin/iblock_section_edit.php 5 323289 0 0
+/bitrix/admin/user_options.php 27 546 0 1
+/auth/ 10 139876 0 1
+/m/employees/ 4 37588 0 0
+/bitrix/admin/site_edit.php 1 51629 0 0
+/services/our_destinations/ 6 203869 0 0
+/bitrix/components/medsite/medsite.edit_calendar/forms/copy_week.php 1 85 0 0
+/for_staff/ 10 341042 0 0
+/employees/search_area.php 1 6872 0 0
+/bitrix/components/medsite/medsite.edit_calendar/forms/edit_form.php 23 1489534 0 0
+/bitrix/admin/enable_component.php 6 120 0 0
+/bitrix/admin/public_file_edit.php 8 189129 0 0
+/bitrix/admin/settings.php 3 161361 0 0
+/license.php 1 17391 0 0
+/bitrix/admin/update_system_partner_call.php 21 713 0 0
+/contacts/ 2 52026 0 0
+/bitrix/gadgets/bitrix/rssreader/getdata.php 4 14210 0 0
+/bitrix/admin/iblock_element_edit.php 28 1293845 0 0
+/bitrix/admin/admin_notify.php 1 14 0 0
+/employees/index.php 4 83882 0 0
+/services/list/274/ 1 35741 0 0
+/bitrix/components/bitrix/map.map/ajax.php 2 4 0 0
+/bitrix/admin/traffic_graph.php 1 12244 0 0
+/for_staff/schedules.php 12 547300 0 0
+/employees/personal_info.php 12 338075 0 0
+/bitrix/admin/component_props.php 3 26781 0 0
+/bitrix/admin/graph_legend.php 4 306 0 0
+/employees/working_today.php 3 18324 0 0
+END_SIDER

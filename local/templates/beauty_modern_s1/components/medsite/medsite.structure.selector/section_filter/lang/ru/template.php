@@ -1,0 +1,7 @@
+<?php
+$MESS['INTR_ABSC_TPL_CHECK_ENTRY'] = "Выбрать";
+$MESS['INTR_ABSC_TPL_CHECK_ALL'] = "Все";
+$MESS['INTR_ABSC_TPL_THERAPIST'] = "Терапевт";
+$MESS['TPL_PLACEHOLDER_CLINIC'] = "Клиника";
+$MESS['TPL_PLACEHOLDER_CLINIC_OPTION'] = "Все клиники";
+?>

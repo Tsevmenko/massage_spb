@@ -1,0 +1,1 @@
+&copy; 1996-<?=date('Y')?> Массаж на дом || <a href="https://prostudio.ru" target="_blank"> Prostudio</a>

@@ -1,0 +1,36 @@
+<?
+$MESS['PRINT_TALON'] = 'Распечатать';
+$MESS['FIND_TALON'] = 'Номер талона';
+$MESS['FIND_TALON_SUBMIT'] = 'Найти';
+$MESS['TALON_NUMBER'] = 'Запись №';
+$MESS['TALON_SERVICE'] = 'Услуга:';
+$MESS['TALON_DATE'] = 'Дата приема:';
+$MESS['TALON_TIME'] = 'Время приема:';
+$MESS['TALON_EMPLOYEE'] = 'Сотрудник:';
+$MESS['TALON_SECTOR'] = 'Участок:';
+$MESS['TALON_CABINET'] = 'Кабинет:';
+$MESS['TALON_STATUS'] = 'Статус:';
+$MESS['TALON_PRINT'] = 'Распечатано';
+$MESS['TALON_CANCLE'] = 'Отказать';
+$MESS['TALON_RETURN'] = 'Восcтановить';
+$MESS['TALON_RETURN_ERROR'] = 'Извините, но данное время уже занято, запишитесь пожалуйста на другое время или попробовать востановить талон в случае отмены нового';
+$MESS['BUTTON_CAPTION_OK'] = 'Ok';
+$MESS['TALON_CONFIRM'] = 'Подтвердить';
+$MESS['TALON_FINDER'] = 'Поиск талонов';
+$MESS['TALON_PEOFILE'] = 'ФИО клиента:';
+$MESS['TALON_PACIENT'] = 'Пациент:';
+$MESS['TALON_EMPLOYEE'] = 'Специалист:';
+$MESS['TALON_STATUS'] = 'Статус талона:';
+$MESS['TALON_SECTOR'] = 'Врачебный участок';
+$MESS['TALON_SERV'] = 'Услуга';
+$MESS['TALON_NO_SERVICE'] = 'Запись без услуги';
+$MESS['TALON_FILTER_CLEAR'] = 'Сбросить';
+$MESS['TALON_CONFIRM_ALERT'] = 'Вы уверенны, что хотите подтвердить запись по этому талону?';
+$MESS['TALON_REWRITE'] = 'Перезаписать на услугу';
+$MESS['ALL_TALON_STATES'] = 'Все';
+$MESS['TALON_FILTER_FILTER'] = 'Фильтр';
+$MESS['TALON_FILTER_CLOSE'] = 'Закрыть';
+$MESS['TALON_PRICE'] = 'Стоимость';
+$MESS['PRICE_EMPTY'] = 'Бесплатно';
+$MESS['PRICE_RUB'] = 'р';
+?>
